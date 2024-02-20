@@ -4,7 +4,7 @@ Ciao, sono Mattioli Francesco, un appassionato di programmazione e tecnologia. B
 
 ## Chi sono
 
-Sono uno sviluppatore software con un interesse particolare per [specificare il tuo interesse principale], [specificare il tuo interesse secondario], e [specificare un altro interesse]. Sono appassionato di risolvere problemi e di imparare sempre nuove tecnologie.
+Sono uno sviluppatore software con un interesse particolare per il web development, in particolare la parte di front-end e logica, e la programmazione videogame. Mi piace inoltre rimanere sempre al corrente di nuove tecnologie, alla ricerca di più estese conoscenze e strumenti da implementare in ogni mio lavoro.
 
 ## Cosa troverai qui
 
@@ -20,7 +20,7 @@ Se sei interessato a collaborare a uno dei miei progetti o se hai domande su uno
 
 ## Contattami
 
-- **E-mail:** [Inserisci il tuo indirizzo e-mail]
+- franci.mdnet@gamil.com
 - **LinkedIn:** [Inserisci il link al tuo profilo LinkedIn]
 - **Twitter:** [Inserisci il tuo nome utente Twitter]
 
