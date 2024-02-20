@@ -20,9 +20,9 @@ Se sei interessato a collaborare a uno dei miei progetti o se hai domande su uno
 
 ## Contattami
 
-- franci.mdnet@gamil.com
-- **LinkedIn:** [Inserisci il link al tuo profilo LinkedIn]
-- **Twitter:** [Inserisci il tuo nome utente Twitter]
+- **email**
+- **LinkedIn:**
+- **Twitter:**
 
 Non vedo l'ora di connettermi con altri sviluppatori e di creare insieme qualcosa di fantastico!
 
