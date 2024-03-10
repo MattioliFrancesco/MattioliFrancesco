@@ -6,6 +6,13 @@ Ciao, sono Mattioli Francesco, un appassionato di programmazione e tecnologia. B
 
 Sono uno sviluppatore software con un interesse particolare per il web development, in particolare la parte di front-end e logica, e la programmazione videogame. Mi piace inoltre rimanere sempre al corrente di nuove tecnologie, alla ricerca di più estese conoscenze e strumenti da implementare in ogni mio lavoro.
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 ## Cosa troverai qui
 
 Su questo profilo GitHub, troverai una varietà di progetti e contributi. Alcuni di essi includono:
