@@ -22,7 +22,7 @@ Se sei interessato a collaborare a uno dei miei progetti o se hai domande su uno
 
 - **[Instagram](https://www.instagram.com/francesco_mattioli__)**
 - **[LinkedIn](https://www.linkedin.com/in/francesco-mattioli-7438a82b9lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bj3U9d%2FanRU2c18EV8MAo1g%3D%3D)**
-- **[via mail](https://mail.google.com/mail/?view=cm&to=franci.mdnet%40gmail.com)**
+- **[Via email](https://mail.google.com/mail/?view=cm&to=franci.mdnet%40gmail.com)**
 
 Grazie per aver visitato il mio profilo GitHub!
 
