@@ -22,7 +22,7 @@ Se sei interessato a collaborare a uno dei miei progetti o se hai domande su uno
 
 - **[Instagram](https://www.instagram.com/francesco_mattioli__)**
 - **[LinkedIn](https://www.linkedin.com/in/francesco-mattioli-7438a82b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bj3U9d%2FanRU2c18EV8MAo1g%3D%3D)**
-- **[email](franci.mdnet@gmail.com)**
+- **[via mail](mailto:franci.mdnet@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)**
 
 Grazie per aver visitato il mio profilo GitHub!
 
